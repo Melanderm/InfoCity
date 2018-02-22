@@ -6,8 +6,7 @@
 	2. `$ sudo gem install cocoapods`
 3. cd:a in i InfoCity/ios - det ska finnas en fil som heter **.xcodeproj**.
 4. `pod install` - installera Podfile
-5. **Starta projektet från xcworkspace-filen**. Om allt är väl i världen syns en karta över San Fransisco i simulatorn.   		
-
+5. **Starta projektet från xcworkspace-filen** / react-native run-ios
 
 
 
