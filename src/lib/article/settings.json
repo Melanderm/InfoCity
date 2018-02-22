@@ -1,0 +1,4 @@
+{
+    "url": "http://lookup.dbpedia.org/api/search.asmx/KeywordSearch?QueryClass=place&QueryString=",
+    "header": {headers: {Accept: 'application/json'}}
+}

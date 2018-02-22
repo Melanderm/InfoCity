@@ -1,0 +1,19 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true 
+  },
+  "plugins": [
+    "react",
+    "react-native"
+  ],
+  "rules": {
+    "no-unused-vars": 1,
+    "prop-types": [2]
+  },
+  "extends": ["airbnb-base"],
+  "ecmaFeatures": {
+    "jsx": true,
+    "classes": true 
+  } 
+}
